@@ -1,6 +1,6 @@
 keras_validation_sets
 =========================================================================================
-|travis| |sonar_quality| |sonar_maintainability| |codacy| |code_climate_maintainability| |pip| |downloads|
+|travis| |sonar_quality| |sonar_maintainability| |codacy| |code_climate_maintainability| 
 
 Python package offering a callback for handling multiple validation sets.
 

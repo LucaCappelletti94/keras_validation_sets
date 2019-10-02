@@ -18,8 +18,13 @@ Since some software handling coverages sometime get slightly different results, 
 
 |coveralls| |sonar_coverage| |code_climate_coverage|
 
-Python package offering a callback for handling multiple validation sets.
-
+Stuff to do
+----------------------------------------------
+- [ ] Add all the code from the various versions you have made into a ./implementations directory.
+- [ ] Parse through said code and determine a structure for:
+    - [ ] Validation sets created though generators
+    - [ ] "Normal" validation sets
+- [ ] Code and test
 
 .. |travis| image:: https://travis-ci.org/LucaCappelletti94/keras_validation_sets.png
    :target: https://travis-ci.org/LucaCappelletti94/keras_validation_sets

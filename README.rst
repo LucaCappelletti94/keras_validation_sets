@@ -46,14 +46,6 @@ Stuff to do
     :target: https://coveralls.io/github/LucaCappelletti94/keras_validation_sets?branch=master
     :alt: Coveralls Coverage
 
-.. |pip| image:: https://badge.fury.io/py/keras_validation_sets.svg
-    :target: https://badge.fury.io/py/keras_validation_sets
-    :alt: Pypi project
-
-.. |downloads| image:: https://pepy.tech/badge/keras_validation_sets
-    :target: https://pepy.tech/badge/keras_validation_sets
-    :alt: Pypi total project downloads 
-
 .. |codacy|  image:: https://api.codacy.com/project/badge/Grade/b78d67845fe24f81919d95686ffb5bf8
     :target: https://www.codacy.com/manual/LucaCappelletti94/keras_validation_sets?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LucaCappelletti94/keras_validation_sets&amp;utm_campaign=Badge_Grade
     :alt: Codacy Maintainability

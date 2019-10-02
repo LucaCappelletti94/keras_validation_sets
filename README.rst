@@ -20,7 +20,9 @@ Since some software handling coverages sometime get slightly different results, 
 
 Stuff to do
 ----------------------------------------------
-- [ ] Add all the code from the various versions you have made into a ./implementations directory.
+- [x] Add all the code from the various versions you have made into a ./implementations directory. (Actually I noticed that the most recent version in the project that I am currently working on seems to contain all the relevant stuff, and even some not so relevant stuff, see docstring in implementations/most_recent_version_as_it_is_used_in_another_project.py)
+- [ ] Update comments and docstrings and in general cleanup code a bit
+- [ ] Look for a better way to validation and prediction that only requires computing the outputs once.
 - [ ] Parse through said code and determine a structure for:
     - [ ] Validation sets created though generators
     - [ ] "Normal" validation sets

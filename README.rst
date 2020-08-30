@@ -4,9 +4,11 @@ keras_validation_sets
 
 Python package offering a callback for handling multiple validation sets.
 
+Everything is work in progress and not very well documented yet, but you will find some docstrings at the important code sections.
+
 How do I install this package?
 ----------------------------------------------
-As usual, just download it using pip:
+As usual, just download it using pip (package is work in progress, if this does not work just copy the additional_validation_sets.py file):
 
 .. code:: shell
 
@@ -26,7 +28,6 @@ Stuff to do
 - [ ] Parse through said code and determine a structure for:
     - [ ] Validation sets created though generators
     - [ ] "Normal" validation sets
-- [ ] Code and test
 
 .. |travis| image:: https://travis-ci.org/LucaCappelletti94/keras_validation_sets.png
    :target: https://travis-ci.org/LucaCappelletti94/keras_validation_sets
